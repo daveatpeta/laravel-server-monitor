@@ -20,7 +20,7 @@
         "php": "^7.2",
         "guzzlehttp/guzzle": "^6.3",
         "laravel/framework": "~5.8.0 || ^6.0",
-        "spatie/laravel-blink": "~1.2.0",
+        "spatie/laravel-blink": "~1.2.0 || dev-master",
         "spatie/regex": "~1.1",
         "symfony/process": "~4.0"
     },
